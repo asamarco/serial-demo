@@ -1,4 +1,4 @@
-<Base project for PierinPIC18>
+<Demonstration of serial I/O over EUSART>
 
 Project Owner(s): Asa Marco
 Author(s): Asa Marco
